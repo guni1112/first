@@ -1,4 +1,7 @@
 this is first git project
 This is second line
 This is third line guni
-Addeing fourth line from terminal
+Adding fourth line from terminal
+
+Added fourth line by guni
+
